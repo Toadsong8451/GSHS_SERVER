@@ -20,7 +20,7 @@
   - 비번 : 개인비밀번호
 - 아이디 : 서버 관리자에서 연락 (현 : gs20059)
 ## Jupyter notebook 이용 방법
-- 초기 설정 방법
+- 초기 설정 방법  
 `mkdir ~/.jupyter`  
 `jupyter notebook --generate-config`  
 `vi jupyter_notebook_config.py`    
